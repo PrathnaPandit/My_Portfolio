@@ -313,10 +313,12 @@ footer {
   height: 1.7rem;
 }
 
+                                      /* mobile screen */
+
 @media screen and (max-width: 720px) {
   nav {
     padding: 1.5rem 1rem;
-    width:27rem;
+    width:30rem;
   }
 
   nav ul {
@@ -399,9 +401,7 @@ footer {
     margin-left: 65px;
   }
   footer{
-    width: 27rem;
+    width: 30rem;
   }
-  /* .project_container {
-    width: 20.875rem;
-  } */
+    
 }
