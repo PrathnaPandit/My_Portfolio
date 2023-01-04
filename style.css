@@ -386,11 +386,11 @@ footer {
 
   .project-heading{
    font-size:35px;
-   margin-right:-71px;
+   margin-right:-118px;
   }
   .project_container {
     flex-direction: column;
-    margin-left: 135px;
+    margin-left: 115px;
   }
 
   .contact_options{
