@@ -377,6 +377,7 @@ footer {
   .skills{
     width:26rem;
     height:16rem;
+      margin-left:20px;
   }
   .icon {
     width: 5.875rem;
